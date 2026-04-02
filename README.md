@@ -3,10 +3,10 @@
 To run this example:
 ```
 docker build -t interview .
-docker run -p 80:80 .
+docker run -p 8000:80 interview
 ```
 
 You can check the result with:
 ```
-curl localhost:8080
+curl localhost:8000
 ```
