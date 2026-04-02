@@ -17,3 +17,6 @@ See the readme:
 https://hub.docker.com/r/aquasec/trivy/
 
 docker run aquasec/trivy image interview
+
+# Multistage build
+....?
