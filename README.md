@@ -10,3 +10,10 @@ You can check the result with:
 ```
 curl localhost:8000
 ```
+
+# Scan with Trivy
+
+See the readme:
+https://hub.docker.com/r/aquasec/trivy/
+
+docker run aquasec/trivy image interview
